@@ -18,6 +18,6 @@
 #### Technologies Used:
 
 ###### SQL and Excel for retrieving and aggregating data
-Data filtering and comparison are done using various filters provided within dashboards. Creating a Dashboard using Excel. This project allowed me to analyze some of the critical metrics related to loans and present the results, using SQL queries in a way that is insightful and actionable. It was used to inform better financial decisions.
+###### Data filtering and comparison are done using various filters provided within dashboards. Creating a Dashboard using Excel. This project allowed me to analyze some of the critical metrics related to loans and present the results, using SQL queries in a way that is insightful and actionable. It was used to inform better financial decisions.
 
 
